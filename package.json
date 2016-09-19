@@ -1,0 +1,22 @@
+{
+  "name": "beanstalk-single-forced-ssl-nodejs-pm2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "pm2 start index.js --no-daemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jozzhart/beanstalk-single-forced-ssl-nodejs-pm2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jozzhart/beanstalk-single-forced-ssl-nodejs-pm2/issues"
+  },
+  "homepage": "https://github.com/jozzhart/beanstalk-single-forced-ssl-nodejs-pm2#readme",
+  "dependencies": {
+  }
+}
